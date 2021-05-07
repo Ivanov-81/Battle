@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorBackgroundEntry">#70DE63</color>
+    <color name="colorBackgroundLogin">#C0DEFD</color>
+    <color name="colorBackgroundCreate">#477AE7</color>
+    <color name="colorBackgroundStart">#328be9</color>
+    <color name="colorBackgroundCenter">#01b4ee</color>
+    <color name="backgroundEntryButtonStart">#78e36c</color>
+    <color name="backgroundEntryButtonEnd">#69d55d</color>
+    <color name="backgroundLoginButtonStart">#f8f9ff</color>
+    <color name="backgroundLoginButtonEnd">#c8dbf9</color>
+    <color name="Grey">#A6A6A6</color>
+    <color name="BlackLite5">#555555</color>
+    <color name="BlackLite4">#444444</color>
+    <color name="Black">#000000</color>
+    <color name="backgroundBlue">#007AFF</color>
+    <color name="shrine_pink_900">#880E4F</color>
+    <color name="shrine_pink_100">#F8BBD0</color>
+<!--    @color/shrine_pink_100-->
+</resources>
